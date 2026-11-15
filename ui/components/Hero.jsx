@@ -478,11 +478,11 @@ export default function Hero() {
             >
               {/* Apply for Visa - Modern Pill CTA */}
               <Link
-                href="/visas"
+                href="/visas/uae-visa"
                 className="group relative inline-flex items-center gap-2.5 px-6 md:px-9 py-5 md:py-4 rounded-2xl bg-gradient-to-r from-primary via-[#1cb854] to-emerald-600 text-white font-semibold text-xs md:text-sm shadow-lg shadow-emerald-950/40 hover:shadow-emerald-600/40 hover:scale-[1.02] active:scale-95 transition-all duration-300 overflow-hidden"
               >
                 <FaPassport className="text-sm md:text-base text-white/90 group-hover:rotate-12 transition-transform duration-300" />
-                <span>Apply for Visa</span>
+                <span>Apply for UAE Visa</span>
                 <FaArrowRight className="text-xs group-hover:translate-x-1 transition-transform duration-200" />
               </Link>
 
